@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T17:59:09.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VnhuxgyO7lygrEe0eUE7" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T18:00:50.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IvZOg5Hjd7YF16ZQs6I1" version="16.6.1" type="github">
   <diagram id="Ead9KslgA46zhQXUnRsg" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="APXZe3nGSLF4Qh6UTo9f-1" value="Database" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APXZe3nGSLF4Qh6UTo9f-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
