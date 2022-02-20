@@ -1,16 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T20:15:02.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="QsD7g18koPQVDQqH1Dz-" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T18:00:25.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="oI2ciY4yZHtVPoM3yWIX" version="16.6.1" type="github">
   <diagram id="yfv7VUzCt2UzwEjTqQSv" name="Page-1">
-    <mxGraphModel dx="460" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sBM6YlFTPOiu_uu4nSc2-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="sBM6YlFTPOiu_uu4nSc2-1" target="sBM6YlFTPOiu_uu4nSc2-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sBM6YlFTPOiu_uu4nSc2-1" target="Oo39pvtyWeNE34Kcrwdv-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sBM6YlFTPOiu_uu4nSc2-1" target="Oo39pvtyWeNE34Kcrwdv-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sBM6YlFTPOiu_uu4nSc2-1" value="Admin&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -19,17 +13,11 @@
         <mxCell id="sBM6YlFTPOiu_uu4nSc2-2" value="Register Profile" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Oo39pvtyWeNE34Kcrwdv-1" target="sBM6YlFTPOiu_uu4nSc2-2">
+        <mxCell id="Oo39pvtyWeNE34Kcrwdv-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="Oo39pvtyWeNE34Kcrwdv-1" target="sBM6YlFTPOiu_uu4nSc2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-1" value="Customer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Oo39pvtyWeNE34Kcrwdv-1" value="Customer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-3" value="Trade-In" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Oo39pvtyWeNE34Kcrwdv-5" value="Access Sales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
