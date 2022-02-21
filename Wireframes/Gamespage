@@ -1,27 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T10:44:16.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="NDg-kHDdaaYaBR4h71kp" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T09:09:47.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kEPbI06mSnXzDdi5Sk-G" version="16.6.1" type="github" pages="2">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2966" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="130" y="60" width="1150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-2" value="Games" style="html=1;shadow=0;dashed=0;fillColor=#000000;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#FCFCFC;fontSize=14;whiteSpace=wrap;" vertex="1" parent="pWjmhNUOo3tIxBJxeKhD-1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-2" value="Games" style="html=1;shadow=0;dashed=0;fillColor=#000000;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#FCFCFC;fontSize=14;whiteSpace=wrap;" parent="pWjmhNUOo3tIxBJxeKhD-1" vertex="1">
           <mxGeometry x="350" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-3" value="Home" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=none;strokeColor=none;fontColor=#F2F2F2;spacingRight=30;whiteSpace=wrap;" vertex="1" parent="pWjmhNUOo3tIxBJxeKhD-1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-3" value="Home" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=none;strokeColor=none;fontColor=#F2F2F2;spacingRight=30;whiteSpace=wrap;" parent="pWjmhNUOo3tIxBJxeKhD-1" vertex="1">
           <mxGeometry width="129.375" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-4" value="Parts" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#F2F2F2;whiteSpace=wrap;" vertex="1" parent="pWjmhNUOo3tIxBJxeKhD-1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-4" value="Parts" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#F2F2F2;whiteSpace=wrap;" parent="pWjmhNUOo3tIxBJxeKhD-1" vertex="1">
           <mxGeometry x="650" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-5" value="Profile" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="pWjmhNUOo3tIxBJxeKhD-1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-5" value="Profile" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="pWjmhNUOo3tIxBJxeKhD-1" vertex="1">
           <mxGeometry x="948.75" width="100.625" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pWjmhNUOo3tIxBJxeKhD-6" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="pWjmhNUOo3tIxBJxeKhD-1">
+        <mxCell id="pWjmhNUOo3tIxBJxeKhD-6" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="pWjmhNUOo3tIxBJxeKhD-1" vertex="1">
           <mxGeometry x="1049.375" width="100.625" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-1" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-2" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-1">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-3" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="425" y="160" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-4" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-3">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-5" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="780" y="150" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-6" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-5">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-7" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-8" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-7">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-9" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-10" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-9">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-11" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="490" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-12" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-11">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-13" value="Top Games" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-14" value="First slide" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="130" y="820" width="1150" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-15" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-14">
+          <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="-50" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vsICMkYBTuuZlXmZayjc-16" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="vsICMkYBTuuZlXmZayjc-14">
+          <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FYxaXg_m8JzTaqkvKyPj" name="Page-2">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="PFVSNQQS0V80GDYVyRMr-0" />
+        <mxCell id="PFVSNQQS0V80GDYVyRMr-1" parent="PFVSNQQS0V80GDYVyRMr-0" />
       </root>
     </mxGraphModel>
   </diagram>
