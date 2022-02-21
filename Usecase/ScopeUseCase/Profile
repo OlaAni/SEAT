@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:11:16.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="19fWhYdTvJBiw6lfVEm_" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T10:12:02.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ALPNiw1LL5ie8o2Oig_5" version="16.6.1" type="github">
   <diagram id="CPrfoPWIaQlK6uEox6TJ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="yHBXkiO6izdx4gZBZrgF-3" value="Registers Profile" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yHBXkiO6izdx4gZBZrgF-4" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yHBXkiO6izdx4gZBZrgF-4" value="Enter Credentials" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ysd4eNBXUW-O2-x4WZCD-1" value="Authenticate user credentials" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
