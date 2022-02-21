@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T09:24:54.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0J_8WHaGwwcyfz0Bb0WC" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T09:25:08.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="FJAqTt3lt-Zsd2plhArm" version="16.6.1" type="github">
   <diagram id="DCChDpiPCLb0wawz7-dN" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="1xpb0xJzAQouHkNUK8gu-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1xpb0xJzAQouHkNUK8gu-2" value="Click on tabs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1xpb0xJzAQouHkNUK8gu-2" value="Click on menu bar tabs" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1xpb0xJzAQouHkNUK8gu-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="1xpb0xJzAQouHkNUK8gu-3" target="1xpb0xJzAQouHkNUK8gu-9" edge="1">
