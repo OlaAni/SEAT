@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T22:33:23.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0D0kJyUvEaRJJFRW7bSH" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T22:33:50.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rpSTFVYZfgOqE0S9Wd1u" version="16.6.2" type="github">
   <diagram id="DCChDpiPCLb0wawz7-dN" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="285" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1xpb0xJzAQouHkNUK8gu-7" value="Choose&amp;nbsp;Product" style="ellipse;whiteSpace=wrap;html=1;" parent="voJukzLKA5i8IQ-qWP1q-1" vertex="1">
-          <mxGeometry x="225" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bKrtg9RqUPjKwovcCK6a-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="voJukzLKA5i8IQ-qWP1q-1" vertex="1">
           <mxGeometry x="170" y="410" width="90" height="20" as="geometry" />
@@ -53,10 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bKrtg9RqUPjKwovcCK6a-2" value="Add item" style="ellipse;whiteSpace=wrap;html=1;" parent="voJukzLKA5i8IQ-qWP1q-1" vertex="1">
-          <mxGeometry x="10" y="350" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="YYm3ypQC6i_1X6nPnpuK-3" value="&lt;div style=&quot;margin: 0px ; padding: 0px ; border: 0px ; font-stretch: inherit ; font-size: 16px ; line-height: inherit ; font-family: &amp;#34;calibri&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; vertical-align: baseline ; background-color: rgb(255 , 255 , 255)&quot;&gt;Swap around both selecting the item and the editing the basking use cases. They are currently in reverse.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="725" width="700" height="30" as="geometry" />
+          <mxGeometry x="30" y="350" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
