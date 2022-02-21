@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:04:52.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UaQS0SXqz32PRlhB2ndI" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T10:06:56.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2G2dl6qhVFZkfg48fks_" version="16.6.1" type="github">
   <diagram id="DCChDpiPCLb0wawz7-dN" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="bKrtg9RqUPjKwovcCK6a-2" value="Edit Basket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bKrtg9RqUPjKwovcCK6a-5" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="bKrtg9RqUPjKwovcCK6a-4" target="1xpb0xJzAQouHkNUK8gu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bKrtg9RqUPjKwovcCK6a-4" value="Checks item is in-stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
