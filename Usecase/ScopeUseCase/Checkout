@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T10:09:05.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IGgWxrrJZkX-hg8pX1Pr" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T10:17:20.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="dGVP2ZSmkXXw0w58ZZRk" version="16.6.1" type="github">
   <diagram id="Bj05bD6yneyQckxevIoJ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,14 @@
         </mxCell>
         <mxCell id="pbFIpjhk2dxqG_KR6Fmw-3" value="Open Checkout" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="j669KeEwIt14_IgcwEak-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="pbFIpjhk2dxqG_KR6Fmw-6" target="pbFIpjhk2dxqG_KR6Fmw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j669KeEwIt14_IgcwEak-4" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j669KeEwIt14_IgcwEak-3">
+          <mxGeometry x="-0.1476" y="-1" relative="1" as="geometry">
+            <mxPoint y="9" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pbFIpjhk2dxqG_KR6Fmw-6" value="Enter payment details" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="420" width="120" height="80" as="geometry" />
