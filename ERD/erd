@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T17:31:00.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="j9Fp1OOPs26JEsL1zvzW" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T17:42:13.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eJmhSuWY1QzezwG02_Kp" version="16.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="3626" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -80,6 +80,18 @@
         </mxCell>
         <mxCell id="_hsTAspgsEqINV8h64nb-52" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-54" value="Admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="335" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-55" value="adminID: int&#xa;&#xa;jobType: varchar&#xa;&#xa;adminName:  varchar&#xa;&#xa;adminEmail: varchar&#xa;&#xa;adminPassword: varchar &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="_hsTAspgsEqINV8h64nb-54">
+          <mxGeometry y="30" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-58" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;entryX=1.023;entryY=-0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_hsTAspgsEqINV8h64nb-54" target="_hsTAspgsEqINV8h64nb-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-1400" y="440" as="sourcePoint" />
+            <mxPoint x="-1220" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
