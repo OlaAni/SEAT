@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T16:22:33.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="M5BTIeS-GGGBYz5mHeD8" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T16:25:26.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3kvkixHXe7KQN4hfCXrI" version="16.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2978" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2776" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,17 @@
         </mxCell>
         <mxCell id="_hsTAspgsEqINV8h64nb-11" value="custEmail: varchar&#xa;&#xa;custPassword: varchar:&#xa;&#xa;custAge: int&#xa;&#xa;custFavGenre: varchar&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="_hsTAspgsEqINV8h64nb-8">
           <mxGeometry y="90" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-17" value="Product" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1370" y="112" width="190" height="86" as="geometry">
+            <mxRectangle x="-1220" y="90" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-18" value="productName: varchar" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="_hsTAspgsEqINV8h64nb-17">
+          <mxGeometry y="26" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_hsTAspgsEqINV8h64nb-19" value="productPrice: double" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="_hsTAspgsEqINV8h64nb-17">
+          <mxGeometry y="56" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
