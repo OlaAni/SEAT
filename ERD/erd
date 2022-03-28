@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T08:50:05.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="CyyUmrsjupHMiECHK9Kn" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T09:21:01.764Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="2Ci7EBi4J4F2NZyaJuM9" version="17.2.4" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3913" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3828" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,11 +68,17 @@
         <mxCell id="foVlohLgStey78MH9ZLz-6" value="product: Product&#xa;saleID: int&#xa;&#xa;FK custID: int&#xa;&#xa;FK productID: int&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="foVlohLgStey78MH9ZLz-3" vertex="1">
           <mxGeometry y="60" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="geyw-ofWvrHg48nCUzXB-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.999;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_hsTAspgsEqINV8h64nb-11" target="foVlohLgStey78MH9ZLz-6">
+        <mxCell id="geyw-ofWvrHg48nCUzXB-1" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.999;exitY=0.22;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_hsTAspgsEqINV8h64nb-11" target="foVlohLgStey78MH9ZLz-6" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-1290" y="480" as="sourcePoint" />
             <mxPoint x="-1190" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8GuN--BaM4Qq-AvKe6Un-1" value="Trade In" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="360" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8GuN--BaM4Qq-AvKe6Un-2" value="PK tradeID: int &#xa;&#xa;discount: float " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="8GuN--BaM4Qq-AvKe6Un-1">
+          <mxGeometry y="30" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
